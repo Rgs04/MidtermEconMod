@@ -15,6 +15,7 @@ class TextProcessor:
                     if len(word) == 3 and word[0] in "Bb":
                         print(word)
 
+#Q2
 #Q3
 pip install numpy
 
